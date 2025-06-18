@@ -237,14 +237,6 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     Yang H, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Liao Y, Zhu J, Li H, Li Z, Zhang J, Zheng J, Li Z, Qu H, Tian Q*<br>
     <i> OHBM Annual Meeting <strong>(OHBM). </strong></i> 2025. (Poster)
   </li>
-
-  <li id="CA-Pub0"> 
-    <span style="color:#000000; font-weight:bold;">Quantification of Human Brain White Matter Myelination using ViSTa MRI Fingerprinting
-</span> <br>
-    Zheng J, Yang C, Zhong W, Wang Z, Li H, Li Z, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Yang H, Cao X, Liao C, Salat DH, Huang SY, Tian Q*<br>
-    <a href="https://zjl21.github.io/images/OHBM-2025-myelin.pdf">[Paper]</a> <br> 
-    <i> OHBM Annual Meeting <strong>(OHBM). </strong></i> 2025. (Poster)
-  </li>
   
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">FreeHemoSeg: Label-Free Deep Learning Framework for Automated Segmentation of Fetal Brain Germinal Matrix and Intraventricular Hemorrhage</span> <br>
