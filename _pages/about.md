@@ -366,6 +366,12 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 <ol reversed>
   <li id="MA-Pub0"> 
+    <span style="color:#000000; font-weight:bold;">FetalExtract-LLM: Structured Information Extraction in Free-Text Fetal MRI Reports Based on Privacy-Ensuring Open-weights Large Language Models</span> <br>
+    <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Yijin Li#, Juncheng Zhu#, Hongjia Yang, Yiming Huang, Haoxiang Li, Yi Liao, Haibo Qu, Qiyuan Tian*<br> 
+    <i> MICCAI 2025 Workshop on Perinatal, Preterm and Paediatric Image Analysis <strong>(PIPPI). </strong></i> 2025. (Under Review)
+  </li>
+  
+  <li id="MA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">Why Temporal Normalization is Essential for Remote Photoplethysmography?</span> <br>
     Kegang Wang, Jiankai Tang, Yantao Wei, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Xin Liu, Yuntao Wang*<br> 
     <i> ACM Multimedia <strong>(ACM MM). </strong></i> 2025. (Under Review)
