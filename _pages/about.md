@@ -31,7 +31,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 # 🔥 News
 **2025.06.27:** Attended the the OHBM 2025 in Brisbane. [Photo](https://drive.google.com/file/d/1_yAOThbCNrS6D-1WPoESadDGrLVqL75O/view?usp=sharing)
   
-**2025.05.24:** 🎉🎉 Awarded **2025 OHBM Merit Abstract Award** !
+**2025.05.24:** 🎉🎉 Awarded **[2025 OHBM Merit Abstract Award](https://drive.google.com/file/d/14UKWrfMNgwcnUKI7JWBR9Tb_3yyBKB15/view?usp=sharing)** !
 
 **2025.05.19:** Our [Chest-OMDL](https://openreview.net/forum?id=ns6nq592HX#discussion) Project got reported by official media of Tsinghua University. [X](https://x.com/Tsinghua_Uni/status/1916809961021100041) [Facebook](https://www.facebook.com/share/p/1BmmJHNuxG)
 
@@ -405,7 +405,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 </ol>
 
 # 🎖 Honors and Awards
-- [[Certificate]](https://arktis2022.github.io/) *2025* **2025 OHBM: Merit Abstract Award**
+- [[Certificate]](https://drive.google.com/file/d/14UKWrfMNgwcnUKI7JWBR9Tb_3yyBKB15/view?usp=sharing) *2025* **2025 OHBM: Merit Abstract Award**
 - [[Certificate]](https://arktis2022.github.io/) *2025* **2025 ISMRM: Educational Stipend Award**
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2025/03/735b20353752c284.jpg) *2024* **National Scholarship, Ministry of Education**, P.R. China <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
 - [[Certificate]](https://drive.google.com/file/d/1VYlwtxd4h-leijUuAW2cbnBj9PjgIWrQ/view?usp=sharing) *2024* **First Prize at 9th National Biomedical Engineering Innovation Design Competition for College Students (Top 5%)** <br /> &nbsp; &nbsp; &nbsp; *A Deep Learning-Enabled Framework for Anomaly Detection in Fetal Brain MRI*
