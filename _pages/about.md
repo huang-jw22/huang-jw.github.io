@@ -29,21 +29,23 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
+**2025.07.20:** Attended the MICS 2025 in Cixi, Zhejiang. [Photo](https://drive.google.com/file/d/1MvW5ANSwRB1bYXC676vW0CCNSEsbHuGD/view?usp=sharing)
+
 **2025.07.17:** 🎉🎉 Our paper addressed [Structured Information Extraction](https://arktis2022.github.io/) has been accepted by [PIPPI 2025](https://pippiworkshop.github.io/).
 
-**2025.07.12:** Attended the the MIDL 2025 in Salt Lake City. [Photo](https://img.erpweb.eu.org/imgs/2025/07/12ca9c442f3a817b.jpg)
+**2025.07.12:** Attended the MIDL 2025 in Salt Lake City. [Photo](https://img.erpweb.eu.org/imgs/2025/07/12ca9c442f3a817b.jpg)
 
-**2025.06.27:** Attended the the OHBM 2025 in Brisbane. [Photo](https://drive.google.com/file/d/1_yAOThbCNrS6D-1WPoESadDGrLVqL75O/view?usp=sharing)
+**2025.06.27:** Attended the OHBM 2025 in Brisbane. [Photo](https://drive.google.com/file/d/1_yAOThbCNrS6D-1WPoESadDGrLVqL75O/view?usp=sharing)
   
 **2025.05.24:** 🎉🎉 Awarded **[2025 OHBM Merit Abstract Award](https://drive.google.com/file/d/14UKWrfMNgwcnUKI7JWBR9Tb_3yyBKB15/view?usp=sharing)** !
 
 **2025.05.19:** Our [Chest-OMDL](https://openreview.net/forum?id=ns6nq592HX#discussion) Project got reported by official media of Tsinghua University. [X](https://x.com/Tsinghua_Uni/status/1916809961021100041) [Facebook](https://www.facebook.com/share/p/1BmmJHNuxG)
 
-**2025.05.14:** Attended the the ISMRM 2025 in Honolulu. [Photo](https://img.erpweb.eu.org/imgs/2025/05/941fb8c0aba1c7ab.jpg)
+**2025.05.14:** Attended the ISMRM 2025 in Honolulu. [Photo](https://img.erpweb.eu.org/imgs/2025/05/941fb8c0aba1c7ab.jpg)
 
 **2025.05.02:** 🎉🎉 Our several short papers have been accepted by [MIDL 2025](https://2025.midl.io/).
 
-**2025.04.24:** Attended the the ICLR 2025 in Singapore. [Photo](https://img.erpweb.eu.org/imgs/2025/04/a419bf12012c5321.jpg)
+**2025.04.24:** Attended the ICLR 2025 in Singapore. [Photo](https://img.erpweb.eu.org/imgs/2025/04/a419bf12012c5321.jpg)
 
 **2025.03.28:** 🎉🎉 Our paper addressed [Multidisease Detection and Localization](https://openreview.net/forum?id=ns6nq592HX#discussion) has been accepted by [MIDL 2025](https://2025.midl.io/).
 
@@ -450,9 +452,10 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 + *Conference Reviewer*, ACM MobileHCI 2024; AAAI-25 UC; IEEE ISBI 2025; ISMRM 2025; IJCNN 2025; CHIL 2025; MICCAI 2025; ICLR 2025 Workshop (AI4CHL, XAI4Science); ACM MM 2025; NeurIPS 2025; BMVC 2025; ICML Workshop (PUT).
   
 # 🎣 Activities
-- *2025.07.12*, Attended the the MIDL 2025 in Salt Lake City. [Poster 1](https://img.erpweb.eu.org/imgs/2025/07/4b259b65d2f2aac4.jpg) [Poster 2](https://img.erpweb.eu.org/imgs/2025/07/05eb1e100e3276de.jpg) [Poster 3](https://img.erpweb.eu.org/imgs/2025/07/db2b16ac2793902d.jpg) [Poster 4](https://img.erpweb.eu.org/imgs/2025/07/6fe4c28affbf135e.jpg) 
-- *2025.06.27*, Attended the the OHBM 2025 in Brisbane. [Photo](https://drive.google.com/file/d/1_yAOThbCNrS6D-1WPoESadDGrLVqL75O/view?usp=sharing) 
-- *2025.05.14*, Attended the the ISMRM 2025 in Honolulu. [Photo](https://img.erpweb.eu.org/imgs/2025/05/941fb8c0aba1c7ab.jpg)
+- *2025.07.20*, Attended the MICS 2025 in Cixi, Zhejiang. [Photo](https://drive.google.com/file/d/1MvW5ANSwRB1bYXC676vW0CCNSEsbHuGD/view?usp=sharing)
+- *2025.07.12*, Attended the MIDL 2025 in Salt Lake City. [Poster 1](https://img.erpweb.eu.org/imgs/2025/07/4b259b65d2f2aac4.jpg) [Poster 2](https://img.erpweb.eu.org/imgs/2025/07/05eb1e100e3276de.jpg) [Poster 3](https://img.erpweb.eu.org/imgs/2025/07/db2b16ac2793902d.jpg) [Poster 4](https://img.erpweb.eu.org/imgs/2025/07/6fe4c28affbf135e.jpg) 
+- *2025.06.27*, Attended the OHBM 2025 in Brisbane. [Photo](https://drive.google.com/file/d/1_yAOThbCNrS6D-1WPoESadDGrLVqL75O/view?usp=sharing) 
+- *2025.05.14*, Attended the ISMRM 2025 in Honolulu. [Photo](https://img.erpweb.eu.org/imgs/2025/05/941fb8c0aba1c7ab.jpg)
 - *2025.04.24*, Attended the ICLR 2025 in Singapore. [Photo](https://img.erpweb.eu.org/imgs/2025/04/a419bf12012c5321.jpg)
 - *2025.02.16*, Attended the ISMRM Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives in Kyoto, Japan. [Photo](https://drive.google.com/file/d/1PB_3NYgY80Eziv8DedZvkEdgrSYU49aY/view?usp=sharing)
 - *2024.11.24*, Attended the 2024 British Machine Vision Conference (BMVC) in Glasgow, UK. [Photo](https://img.erpweb.eu.org/imgs/2024/11/cb1c15b029cec4e7.jpg)
