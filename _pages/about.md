@@ -1,4 +1,4 @@
----
+<img width="432" height="73" alt="image" src="https://github.com/user-attachments/assets/eb34fdbc-f2d3-4998-9b27-3b30cf65fdc5" />---
 permalink: /
 title: ""
 author_profile: true
@@ -382,6 +382,12 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <h2 id="Manuscripts Under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;"> Manuscripts Under Review</h2>
 
 <ol reversed>
+  <li id="MA-Pub0"> 
+    <span style="color:#000000; font-weight:bold;">Quality-label-free Fetal Brain MRI Quality Control Based on Image Orientation Recognition Uncertainty</span> <br>
+    <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span> Yi Liao#, Haoxiang Li, Juncheng Zhu, Hongjia Yang, Yingqi Hao, Haibo Qu, Qiyuan Tian*<br> 
+    <i>Radiology <strong>(RAD). </strong></i> 2025. (Under Review)
+  </li>
+  
   <li id="MA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">Why Temporal Normalization is Essential for Remote Photoplethysmography?</span> <br>
     Kegang Wang, Jiankai Tang, Yantao Wei, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Xin Liu, Yuntao Wang*<br> 
