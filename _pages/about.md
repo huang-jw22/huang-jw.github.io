@@ -29,6 +29,8 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📻 News
+**2025.07.23:** 🎉🎉 One abstract accepted by [RSNA 2025](https://www.rsna.org/annual-meeting).
+
 **2025.07.22:** 🎉🎉 Our work about [Chest CT Foundation Model](https://openreview.net/forum?id=ns6nq592HX#discussion) Awarded [the 1st prize](https://img.erpweb.eu.org/imgs/2025/07/126d96158b08e1d8.jpg) at the 10th National Biomedical Engineering Innovation Design Competition for College Students (Top 5%).
 
 **2025.07.20:** Attended the MICS 2025 in Cixi, Zhejiang. [Photo](https://drive.google.com/file/d/1MvW5ANSwRB1bYXC676vW0CCNSEsbHuGD/view?usp=sharing)
@@ -235,6 +237,14 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <h2 id="CONFERENCE ABSTRACTS" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">CONFERENCE ABSTRACTS</h2>
 
 <ol reversed>
+  <li id="CA-Pub0">
+    <span style="color:#000000; font-weight:bold;">HUMMID: High-fidelity Ultra-fast Macrostructure and Microstructure brain Imaging using Deep learning</span> <br>
+    Yuhang He, Jialan Zheng, Hongjia Yang, Yifei Chen, Zihan Li, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Qiuyun Fan, Yi Liao, Haibo Qu, Qiyuan Tian, Jie Lu, Ziyu Li*<br>
+    <a href="https://github.com/Arktis2022/Arktis2022.github.io/blob/main/_data/RSNA2025_HeYuhang_Final.pdf">[Paper]</a> <br>
+    <i>Annual Meeting of Radiological Society of North America <strong>(RSNA). </strong></i> 2025. (Poster)
+  </li>
+
+
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">Unsupervised Fetal Brain MRI Quality Assessment based on Orientation Prediction Uncertainty</span> <br>
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Haoxiang Li, Zihan Li, Hongjia Yang, Jialan Zheng, Haibo Qu, Qiyuan Tian*<br>
@@ -384,7 +394,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <ol reversed>
   <li id="MA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">Quality-label-free Fetal Brain MRI Quality Control Based on Image Orientation Recognition Uncertainty</span> <br>
-    <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Yi Liao#, Haoxiang Li, Juncheng Zhu, Hongjia Yang, Yingqi Hao, Haibo Qu, Qiyuan Tian*<br> 
+    <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Yi Liao#, Haoxiang Li, Juncheng Zhu, Hongjia Yang, Yingqi Hao, Haibo Qu*, Qiyuan Tian<br> 
     <i>Radiology <strong>(RAD). </strong></i> 2025. (Under Review)
   </li>
   
