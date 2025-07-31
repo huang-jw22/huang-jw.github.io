@@ -29,7 +29,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📻 News
-**2025.07.23:** 🎉🎉 One [abstract](HUMMID: High-fidelity Ultra-fast Macrostructure and Microstructure brain Imaging using Deep learning) accepted by [RSNA 2025](https://www.rsna.org/annual-meeting).
+**2025.07.23:** 🎉🎉 One [abstract](https://github.com/Arktis2022/Arktis2022.github.io/blob/main/_data/RSNA2025_HeYuhang_Final.pdf) accepted by [RSNA 2025](https://www.rsna.org/annual-meeting).
 
 **2025.07.22:** 🎉🎉 Our work about [Chest CT Foundation Model](https://openreview.net/forum?id=ns6nq592HX#discussion) Awarded [the 1st prize](https://img.erpweb.eu.org/imgs/2025/07/126d96158b08e1d8.jpg) at the 10th National Biomedical Engineering Innovation Design Competition for College Students (Top 5%).
 
