@@ -397,17 +397,17 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Yi Liao#, Haoxiang Li, Juncheng Zhu, Hongjia Yang, Yingqi Hao, Haibo Qu*, Qiyuan Tian<br> 
     <i>Radiology <strong>(RAD). </strong></i> 2025. (Under Review)
   </li>
-  
+
+  <li id="MA-Pub1"> 
+    <span style="color:#000000; font-weight:bold;">WARPNet: Scale-wise Autoregressive Cross-modal Synthesis for Accurate and Detail-preserving MRI-to-PET Generation</span> <br>
+    Guanyu Zhou, Yifei Chen, Gaoxiang Ying, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Xuguang Bai, Jialan Zheng, Bixiao Cui, Qiyuan Tian, Jie Lu*<br> 
+    <i>IEEE International Conference on Bioinformatics and Biomedicine <strong>(BIBM).</strong></i> 2025. (Under Review)
+  </li>
+
   <li id="MA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">Why Temporal Normalization is Essential for Remote Photoplethysmography?</span> <br>
     Kegang Wang, Jiankai Tang, Yantao Wei, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Xin Liu, Yuntao Wang*<br> 
     <i>Annual AAAI Conference on Artificial Intelligence <strong>(AAAI). </strong></i> 2026. (Under Review)
-  </li>
-
-  <li id="MA-Pub1"> 
-    <span style="color:#000000; font-weight:bold;">DR-TTA: Dynamic and Robust Test-Time Adaptation Under Low-Quality MRI Conditions for Brain Tumor Segmentation</span> <br>
-    Yuanhan Wang, Yifei Chen, Shuo Jiang, Wenjing Yu, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Shenghao Zhu, Feiwei Qin, Changmiao Wang*<br> 
-    <i>IEEE International Conference on Bioinformatics and Biomedicine <strong>(BIBM).</strong></i> 2025. (Under Review)
   </li>
 
   <li id="MA-Pub3"> 
