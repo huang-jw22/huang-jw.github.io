@@ -398,6 +398,12 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     <i>Radiology <strong>(RAD). </strong></i> 2025. (Under Review)
   </li>
 
+  <li id="MA-Pub2"> 
+    <span style="color:#000000; font-weight:bold;">Automated Reconstruction and Segmentation of Isotropic-Resolution Fetal Body MRI Data for Quantitative Hydronephrosis Analysis</span> <br>
+    Junwei Huang, Haoxiang Li, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Yijin Li, Yi Liao, Fenglin Jia, Junchen Zhu, Haibo Qu, Qiyuan Tian*<br> 
+    <i>The ISMRM Workshop on Unlocking the Potential of Prenatal MRI</i>. 2025. (Under Review)
+  </li>
+
   <li id="MA-Pub1"> 
     <span style="color:#000000; font-weight:bold;">WARPNet: Scale-wise Autoregressive Cross-modal Synthesis for Accurate and Detail-preserving MRI-to-PET Generation</span> <br>
     Guanyu Zhou, Yifei Chen, Gaoxiang Ying, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Xuguang Bai, Jialan Zheng, Bixiao Cui, Qiyuan Tian*, Jie Lu*<br> 
