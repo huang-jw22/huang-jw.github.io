@@ -29,7 +29,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📻 News
-**2025.07.23:** Birth Lab's participation in ISMRM 2025 was reported by official media of Tsinghua University. [X](https://x.com/Tsinghua_Uni/status/1949137797907915107) [Facebook](https://www.facebook.com/Tsinghua/posts/pfbid02FXwp87qfKYeHorVF1XKWCn9GqNQo9bKGsKbMqYifKzsstA9NdytEapmAhHQxJGJel)
+**2025.07.27:** Birth Lab's participation in ISMRM 2025 was reported by official media of Tsinghua University. [X](https://x.com/Tsinghua_Uni/status/1949137797907915107) [Facebook](https://www.facebook.com/Tsinghua/posts/pfbid02FXwp87qfKYeHorVF1XKWCn9GqNQo9bKGsKbMqYifKzsstA9NdytEapmAhHQxJGJel)
 
 **2025.07.23:** 🎉🎉 One [abstract](https://github.com/Arktis2022/Arktis2022.github.io/blob/main/_data/RSNA2025_HeYuhang_Final.pdf) accepted by [RSNA 2025](https://www.rsna.org/annual-meeting).
 
