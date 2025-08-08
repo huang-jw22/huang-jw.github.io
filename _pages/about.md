@@ -29,7 +29,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📻 News
-**2025.08.08:** 100 citations on Google Scholar! [🎈](https://img.erpweb.eu.org/imgs/2025/08/9fc1df138e95702c.jpg)
+**2025.08.08:** Google Scholar citations have reached 100! [🎈](https://img.erpweb.eu.org/imgs/2025/08/9fc1df138e95702c.jpg)
 
 **2025.07.27:** Birth Lab's participation in ISMRM 2025 was reported by official media of Tsinghua University. [X](https://x.com/Tsinghua_Uni/status/1949137797907915107) [Facebook](https://www.facebook.com/Tsinghua/posts/pfbid02FXwp87qfKYeHorVF1XKWCn9GqNQo9bKGsKbMqYifKzsstA9NdytEapmAhHQxJGJel)
 
