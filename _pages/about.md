@@ -509,7 +509,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 # 📚 Book Reading
 - *2025.05.01 – 2025.05.31*, [**The House on the Borderland**](https://en.wikipedia.org/wiki/The_House_on_the_Borderland) by William Hope Hodgson. [Book](https://img.erpweb.eu.org/imgs/2025/05/41a06bab3300e89d.jpg)
-- *2025.05.31 – 2025.06.05*, [**Flatland: A Romance of Many Dimensions**](https://en.wikipedia.org/wiki/Flatland) by Edwin Abbott Abbott. [Book](https://img.erpweb.eu.org/imgs/2025/06/8361c5333a48077c.jpg)
+- *2025.05.31 – 2025.06.05*, [**Flatland: A Romance of Many Dimensions**](https://en.wikipedia.org/wiki/Flatland) by Edwin Abbott. [Book](https://img.erpweb.eu.org/imgs/2025/06/8361c5333a48077c.jpg)
 - *2025.06.05 - 2025.07.26*, [**Holy Mother**](https://www.goodreads.com/book/show/32450412-holy-mother) by Rikako Akiyoshi. [Book](https://img.erpweb.eu.org/imgs/2025/07/1356a6d968539bc6.jpg)
 - *2025.07.26 - 2025.08.03*, [**Black Cairn Point**](https://www.goodreads.com/book/show/26184734) by Claire McFall. [Book](https://img.erpweb.eu.org/imgs/2025/08/bc9ee4075d146cc5.jpg)
 - *2025.08.03 - 2025.08.21*, [**House of Leaves**](https://en.wikipedia.org/wiki/House_of_Leaves) by Mark Z. Danielewski. [Book](https://img.erpweb.eu.org/imgs/2025/08/d26952946e28064d.jpg)
