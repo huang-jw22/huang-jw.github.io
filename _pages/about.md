@@ -130,7 +130,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <ol reversed>
 <li id="JP-Pub2"> 
     <span style="color:#000000; font-weight:bold;">Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer</span> <br> 
-    <a href="https://www.sciencedirect.com/science/article/pii/S0893608025000073">[Paper]</a> <br> 
+    <a href="https://www.sciencedirect.com/science/article/pii/S0893608025000073">[Paper]</a> <a href="https://github.com/Arktis2022/Spiking-PhysFormer">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Jiankai Tang#, Chengli Yong, Haoxiang Li, Jiahao Qi, Siwei Li, Kegang Wang, Jie Gan, Yuntao Wang*, Hong Chen* <br>
     <i>Neural Networks <strong>(NN). </strong></i> 2025. 
   </li>
