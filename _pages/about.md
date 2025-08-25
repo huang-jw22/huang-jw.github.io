@@ -441,7 +441,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
   <li id="MA-Pub3"> 
     <span style="color:#000000; font-weight:bold;">Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model</span> <br>
     Changwei Wu, Yifei Chen, Yuxin Du, Jinying Zong, Jie Dong, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Yong Peng, Jin Fan, Feiwei Qin, Changmiao Wang*<br> 
-    <i>IEEE Transactions on Cognitive and Developmental Systems <strong>(IEEE TCDS). </strong></i> 2025.  (Under Review)
+    <i>Biomedical Signal Processing and Control <strong>(BSPC). </strong></i> 2025.  (Under Review)
   </li>
 </ol>
 
