@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm First-year PhD student from [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes AI for Neuroscience, Medical Image Analysis, Spiking Neural Network.
+I'm Second-year PhD student from [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes AI for Neuroscience, Medical Image Analysis, Spiking Neural Network.
 
 I am very fortunate to be advised by [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm) of [Birth Lab](https://birthlab.github.io/) from [School of Biomedical Engineering](https://bme.tsinghua.edu.cn/index.htm), Tsinghua University. 
 
@@ -29,6 +29,8 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📻 News
+**2025.09.07:** Attended the 2025 Beijing Radiology Quality Control Conference. [Photo](https://drive.google.com/file/d/1MPMjsz7aazGh71I0YoDSeVEZR-6gQBRy/view?usp=sharing)
+
 **2025.08.08:** Google Scholar citations have reached 100! [🎈](https://img.erpweb.eu.org/imgs/2025/08/9fc1df138e95702c.jpg)
 
 **2025.07.27:** Birth Lab's participation in ISMRM 2025 was reported by official media of Tsinghua University. [X](https://x.com/Tsinghua_Uni/status/1949137797907915107) [Facebook](https://www.facebook.com/Tsinghua/posts/pfbid02FXwp87qfKYeHorVF1XKWCn9GqNQo9bKGsKbMqYifKzsstA9NdytEapmAhHQxJGJel)
@@ -272,48 +274,56 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">FreeHemoSeg: Label-Free Deep Learning Framework for Automated Segmentation of Fetal Brain Germinal Matrix and Intraventricular Hemorrhage</span> <br>
     <span style="color:#b02418; font-weight:bold;">Liu M</span>, Liao Y, Zhu J, Li H, Yang H, Zheng J, Li ZH, Li ZY, Qu H, Tian Q*<br>
+    <a href="https://archive.ismrm.org/2025/3790_Ym89lJRZe.html">[Paper]</a> <br> 
     <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Digital Poster)
   </li>
 
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">FetalSR: Super-resolving High-isotropic-resolution Image Volume from Single Thick-slice Stack with Deep Learning for Fetal Brain Morphometry</span> <br>
     Yang H, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Liao Y, Li H, Zhu J, Li Z, Zhang J, Zheng J, Li Z, Qu H, Tian Q*<br>
+    <a href="https://archive.ismrm.org/2025/0015_TonEG7RQy.html">[Paper]</a> <br> 
     <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Oral Presentation, ISMRM Summa Cum Laude Merit Award, TOP 5%)
   </li>
   
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">CortexKAN: Multi-input KAN for fetal cortical surface reconstruction</span> <br>
      Li H, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Liao Y, Zhu J, Zheng J, Yang H, Li Z, Qu H, Tian Q*<br>
+    <a href="https://archive.ismrm.org/2025/3792_9U0wArSPu.html">[Paper]</a> <br> 
     <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Digital Poster)
   </li>
 
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">FetalSFUDA: Source-Free Unsupervised Domain Adaptation for Fetal Brain Extraction from Different Centers or MRI Sequences</span> <br>
       Li Y, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Zhu J, Yang H, Zheng J, Li Z, Liao Y, Qu H, Tian Q*<br>
+    <a href="https://archive.ismrm.org/2025/3788_5TdJkERAZ.html">[Paper]</a> <br> 
     <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Digital Poster)
   </li>
   
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">Negative Impacts of Germinal Matrix-Ventricular Hemorrhage on Prenatal and Postnatal Brain Development</span> <br>
      Li H, Liao Y, Zhu J, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Zheng J, Yang H, Li Z, Li Z, Tian Q, Qu H*<br>
+    <a href="https://archive.ismrm.org/2025/3798_4AGubBRaV.html">[Paper]</a> <br> 
     <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Digital Poster, ISMRM Summa Cum Laude Merit Award, TOP 5%)
   </li>
   
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">DiffKAN: Convolutional Kolmogorov-Arnold Networks for Improved Diffusion MRI Microstructural Modeling</span> <br>
     Chen Y, Li Z, Wang Y, Li Z, Zheng J, Yang H, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Tian Q*<br>
+    <a href="https://archive.ismrm.org/2025/3848_PtzrNzQlO.html">[Paper]</a> <br> 
     <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Digital Poster)
   </li>
 
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">DeepEddy: high-quality fast eddy current and bulk motion correction using deep learning-based image synthesis and co-registration</span> <br>
     Zhang J, Lange F, Andersson J, Zheng J, Jing Y, Yang H, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Li Z, Wu W, Tian Q, Li Z*<br>
+    <a href="https://archive.ismrm.org/2025/0746_AFLFshRcJ.html">[Paper]</a> <br> 
     <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Oral Presentation, Magna Cum Laude Merit Award, Top 15%)
   </li>
   
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">DIMOND++: Improving diffusion model optimization using diffusion priors</span> <br>
     Li Z, Zheng J, Li Z, Wang Z, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Ning G, Liao H, Tian Q*<br>
+    <a href="https://archive.ismrm.org/2025/0713_aKJB4DQl1.html">[Paper]</a> <br> 
     <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Oral Power Pitch, Magna Cum Laude Merit Award, Top 15%)
   </li>
 
@@ -486,6 +496,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 + *Conference Reviewer*, ACM MobileHCI 2024; AAAI-25 UC; IEEE ISBI 2025; ISMRM 2025; IJCNN 2025; CHIL 2025; MICCAI 2025; ICLR 2025 Workshop (AI4CHL, XAI4Science); ACM MM 2025; NeurIPS 2025; BMVC 2025; ICML Workshop (PUT).
   
 # 🎣 Activities
+- *2025.09.09*, Attended the 2025 Beijing Radiology Quality Control Conference. [Photo](https://drive.google.com/file/d/1MPMjsz7aazGh71I0YoDSeVEZR-6gQBRy/view?usp=sharing)
 - *2025.07.20*, Attended the MICS 2025 in Cixi, Zhejiang. [Photo](https://drive.google.com/file/d/1MvW5ANSwRB1bYXC676vW0CCNSEsbHuGD/view?usp=sharing)
 - *2025.07.12*, Attended the MIDL 2025 in Salt Lake City. [Poster 1](https://img.erpweb.eu.org/imgs/2025/07/4b259b65d2f2aac4.jpg) [Poster 2](https://img.erpweb.eu.org/imgs/2025/07/05eb1e100e3276de.jpg) [Poster 3](https://img.erpweb.eu.org/imgs/2025/07/db2b16ac2793902d.jpg) [Poster 4](https://img.erpweb.eu.org/imgs/2025/07/6fe4c28affbf135e.jpg) 
 - *2025.06.27*, Attended the OHBM 2025 in Brisbane. [Photo](https://drive.google.com/file/d/1_yAOThbCNrS6D-1WPoESadDGrLVqL75O/view?usp=sharing) 
