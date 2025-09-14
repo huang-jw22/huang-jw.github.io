@@ -453,6 +453,13 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     Changwei Wu, Yifei Chen, Yuxin Du, Jinying Zong, Jie Dong, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Yong Peng, Jin Fan, Feiwei Qin, Changmiao Wang*<br> 
     <i>Biomedical Signal Processing and Control <strong>(BSPC). </strong></i> 2025.  (Under Review)
   </li>
+
+  <li id="MA-Pub3"> 
+    <span style="color:#000000; font-weight:bold;">MicroKAN: mapping human brain microstructure using diffusion MRI and convolutional Kolmogorov-Arnold Network</span> <br>
+    Yifei Chen, Zihan Li, Yuanhan Wang, Yijin Li, Jialan Zheng, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Tolga Cukur, Ziyu Li, Qiyuan Tian*<br> 
+   <i>Medical Image Analysis <strong>(MIA). </strong></i> 2025. (Under Review)
+  </li>
+  
 </ol>
 
 # 🎖 Honors and Awards
