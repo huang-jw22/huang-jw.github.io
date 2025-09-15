@@ -1,4 +1,4 @@
----
+<img width="432" height="73" alt="image" src="https://github.com/user-attachments/assets/0ae12fa6-0e9b-444a-82b7-dc28fa799dc4" />---
 permalink: /
 title: ""
 author_profile: true
@@ -410,6 +410,12 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     <span style="color:#000000; font-weight:bold;">Quality-label-free Fetal Brain MRI Quality Control Based on Image Orientation Recognition Uncertainty</span> <br>
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Yi Liao#, Haoxiang Li, Juncheng Zhu, Hongjia Yang, Yingqi Hao, Haibo Qu*, Qiyuan Tian<br> 
     <i>Medical Image Analysis <strong>(MIA). </strong></i> 2025. (Under Review)
+  </li>
+
+  <li id="MA-Pub0"> 
+    <span style="color:#000000; font-weight:bold;">PANDA: Patch-based unsupervised deep learning for brain anomaly detection via age prediction in fetal MRI</span> <br>
+    Yingqi Hao#, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Juncheng Zhu, Hongjia Yang, Haoxiang Li, Yi Liao, Haibo Qu*, Qiyuan Tian<br> 
+    <i>Radiology: Artificial Intelligence<strong>(RAI). </strong></i> 2025. (Under Review)
   </li>
 
   <li id="MA-Pub2"> 
