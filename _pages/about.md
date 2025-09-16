@@ -152,7 +152,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
   <li id="MA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">autoPET IV challenge: Incorporating organ supervision and human guidance for lesion segmentation in PET/CT</span> <br>
     <a href="https://arxiv.org/pdf/2509.02402">[Paper]</a> <a href="https://github.com/huang-jw22/autoPET-4-submission/tree/master">[Code]</a><br> 
-    Junwei Huang, Yingqi Hao, Yitong Luo, Ziyu Wang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Yifei Chen, Yuanhan Wang, Lei Xiang, Qiyuan Tian*<br> 
+    Junwei Huang, Yingqi Hao, Yitong Luo, Ziyu Wang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Yifei Chen, Yuanhan Wang, Lei Xiang, Qiyuan Tian*<br> 
     <i> MICCAI autoPET IV challenge <strong>(MICCAI). </strong></i> 2025. (Top 3 Winner)
   </li>
   
