@@ -153,7 +153,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     <span style="color:#000000; font-weight:bold;">autoPET IV challenge: Incorporating organ supervision and human guidance for lesion segmentation in PET/CT</span> <br>
     <a href="https://arxiv.org/pdf/2509.02402">[Paper]</a> <a href="https://github.com/huang-jw22/autoPET-4-submission/tree/master">[Code]</a><br> 
     Junwei Huang, Yingqi Hao, Yitong Luo, Ziyu Wang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Yifei Chen, Yuanhan Wang, Lei Xiang, Qiyuan Tian*<br> 
-    <i> MICCAI autoPET IV challenge <strong>(MICCAI). </strong></i> 2025. (Top 3 Place Winner)
+    <i> MICCAI autoPET IV challenge <strong>(MICCAI). </strong></i> 2025. (Top 3 Winner)
   </li>
   
   <li id="MA-Pub0"> 
@@ -167,7 +167,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     <span style="color:#000000; font-weight:bold;">Chest-OMDL: Organ-specific Multidisease Detection and Localization in Chest Computed Tomography using Weakly Supervised Deep Learning from Free-text Radiology Report</span> <br>
     <a href="https://openreview.net/forum?id=ns6nq592HX&referrer=%5Bthe%20profile%20of%20Yifei%20Chen%5D(%2Fprofile%3Fid%3D~Yifei_Chen18">[Paper]</a> <a href="https://github.com/JasonW375/Chest-OMDL">[Code]</a> <br> 
     Xuguang Bai#, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Yifei Chen, Hongjia Yang, Qiyuan Tian* <br>
-    <i>Medical Imaging with Deep Learning <strong>(MIDL). </strong></i> 2025. (Poster) (MICCAI VLM3D Challenge Top 2 Place Winner)
+    <i>Medical Imaging with Deep Learning <strong>(MIDL). </strong></i> 2025. (Poster) (MICCAI VLM3D Challenge Top 2 Winner)
   </li>
 
   <li id="CP-Pubx"> 
