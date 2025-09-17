@@ -274,6 +274,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">Volume Reconstruction from Single MRI Thick-slice Stack with Deep Learning for Fetal Brain</span> <br>
+    <a href="https://zenodo.org/records/15641972">[Paper]</a> <br> 
     Yang H, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Liao Y, Zhu J, Li H, Li Z, Zhang J, Zheng J, Li Z, Qu H, Tian Q*<br>
     <i> OHBM Annual Meeting <strong>(OHBM). </strong></i> 2025. (Poster)
   </li>
@@ -406,7 +407,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
   <li id="CA-Pub4"> 
     <span style="color:#000000; font-weight:bold;">Label-free Image Quality Assessment of Fetal Brain MRI with Unsupervised Deep Learning</span> <br>
-    <a href="https://drive.google.com/file/d/1hL0Vyr0e5Wm23xKJhQriVa_dF318Osjg/view?usp=sharing">[Paper]</a>  <br> 
+    <a href="https://hal.science/hal-04961169/">[Paper]</a>  <br> 
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Haoxiang Li, Haibo Qu, Qiyuan Tian* <br>
     <i>AI Health Summit. </i> 2023. (Top3 prize, Top 3%)
   </li>
