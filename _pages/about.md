@@ -336,12 +336,14 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">High-fidelity Ultra-fast Diffusion Tensor Imaging in Stroke Patients Using Transfer Learning</span> <br>
+    <a href="https://archive.ismrm.org/2025/2371_VEwGqGSeM.html">[Paper]</a>  <br>
     Jing Y, Li Z, Yu Y, Zhou J, Li Z, Zheng J, Yang H, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Wu W, Tian Q, Lu J*<br>
     <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Digital Poster)
   </li>
 
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">Impacts of diffusion MRI spatial resolution on the short-range association fiber reconstruction and connectivity estimation</span> <br>
+    <a href="https://archive.ismrm.org/2025/4787_HSnqCVPx1.html">[Paper]</a>  <br>
     Zheng J, Yang C, Zhong W, Wang Z, Li H, Li Z, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Yang H, Cao X, Liao C, Salat DH, Huang SY, Tian Q*<br>
     <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Traditional Poster)
   </li>
