@@ -29,6 +29,8 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📻 News
+**2025.09.27:** Attended MICCAI 2025 in Daejeon, South Korea; won 2nd place in the MICCAI VLM3D Challenge and 1st place in the autoPET IV Challenge; delivered an oral presentation at the PIPPI Workshop. [Photo](https://img.erpweb.eu.org/imgs/2025/09/0b9b86976a2bfcf4.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/a3a62ea155b953e2.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/319c3fb36a464314.jpg)
+
 **2025.09.07:** Attended the 2025 Beijing Radiology Quality Control Conference. [Photo](https://drive.google.com/file/d/1MPMjsz7aazGh71I0YoDSeVEZR-6gQBRy/view?usp=sharing)
 
 **2025.08.08:** Google Scholar citations have reached 100! [🎈](https://img.erpweb.eu.org/imgs/2025/08/9fc1df138e95702c.jpg)
@@ -153,7 +155,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     <span style="color:#000000; font-weight:bold;">autoPET IV challenge: Incorporating organ supervision and human guidance for lesion segmentation in PET/CT</span> <br>
     <a href="https://arxiv.org/pdf/2509.02402">[Paper]</a> <a href="https://github.com/huang-jw22/autoPET-4-submission/tree/master">[Code]</a><br> 
     Junwei Huang, Yingqi Hao, Yitong Luo, Ziyu Wang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Yifei Chen, Yuanhan Wang, Lei Xiang, Qiyuan Tian*<br> 
-    <i> MICCAI autoPET IV challenge <strong>(MICCAI). </strong></i> 2025. (Top 3 Winner)
+    <i> MICCAI autoPET IV challenge <strong>(MICCAI). </strong></i> 2025. (1st Place Winner)
   </li>
   
   <li id="MA-Pub0"> 
@@ -167,7 +169,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     <span style="color:#000000; font-weight:bold;">Chest-OMDL: Organ-specific Multidisease Detection and Localization in Chest Computed Tomography using Weakly Supervised Deep Learning from Free-text Radiology Report</span> <br>
     <a href="https://openreview.net/forum?id=ns6nq592HX&referrer=%5Bthe%20profile%20of%20Yifei%20Chen%5D(%2Fprofile%3Fid%3D~Yifei_Chen18">[Paper]</a> <a href="https://github.com/JasonW375/Chest-OMDL">[Code]</a> <br> 
     Xuguang Bai#, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Yifei Chen, Hongjia Yang, Qiyuan Tian* <br>
-    <i>Medical Imaging with Deep Learning <strong>(MIDL). </strong></i> 2025. (Poster) (MICCAI VLM3D Challenge Top 2 Winner)
+    <i>Medical Imaging with Deep Learning <strong>(MIDL). </strong></i> 2025. (Poster) (MICCAI VLM3D Challenge 2nd Place Winner)
   </li>
 
   <li id="CP-Pubx"> 
@@ -491,6 +493,8 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 </ol>
 
 # 🎖 Honors and Awards
+- [[Certificate]](https://img.erpweb.eu.org/imgs/2025/09/a3a62ea155b953e2.jpg) *2025* **MICCAI 2025 autoPET IV Challenge 1st Place Winner**
+- [[Certificate]](https://img.erpweb.eu.org/imgs/2025/09/0b9b86976a2bfcf4.jpg) *2025* **MICCAI 2025 VLM3D Challenge 2nd Place Winner**
 - [[Certificate]](https://drive.google.com/file/d/14UKWrfMNgwcnUKI7JWBR9Tb_3yyBKB15/view?usp=sharing) *2025* **2025 OHBM: Merit Abstract Award**
 - [[Certificate]](https://arktis2022.github.io/) *2025* **2025 ISMRM: Educational Stipend Award**
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2025/03/735b20353752c284.jpg) *2024* **National Scholarship, Ministry of Education**, P.R. China <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
@@ -531,6 +535,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 + *Conference Reviewer*, ACM MobileHCI 2024; AAAI-25 UC; IEEE ISBI 2025; ISMRM 2025; IJCNN 2025; CHIL 2025; MICCAI 2025; ICLR 2025 Workshop (AI4CHL, XAI4Science); ACM MM 2025; NeurIPS 2025; BMVC 2025; ICML Workshop (PUT).
   
 # 🎣 Activities
+- *2025.09.27*, Attended MICCAI 2025 in Daejeon, South Korea; won 2nd place in the MICCAI VLM3D Challenge and 1st place in the autoPET IV Challenge; delivered an oral presentation at the PIPPI Workshop. [Photo](https://drive.google.com/file/d/1A1G9QYDK2-QOE9CVkQEUfxiugFdHOoDg/view?usp=sharing) [Photo](https://img.erpweb.eu.org/imgs/2025/09/0b9b86976a2bfcf4.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/a3a62ea155b953e2.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/319c3fb36a464314.jpg)
 - *2025.09.09*, Attended the 2025 Beijing Radiology Quality Control Conference. [Photo](https://drive.google.com/file/d/1MPMjsz7aazGh71I0YoDSeVEZR-6gQBRy/view?usp=sharing)
 - *2025.07.20*, Attended the MICS 2025 in Cixi, Zhejiang. [Photo](https://drive.google.com/file/d/1MvW5ANSwRB1bYXC676vW0CCNSEsbHuGD/view?usp=sharing)
 - *2025.07.12*, Attended the MIDL 2025 in Salt Lake City. [Poster 1](https://img.erpweb.eu.org/imgs/2025/07/4b259b65d2f2aac4.jpg) [Poster 2](https://img.erpweb.eu.org/imgs/2025/07/05eb1e100e3276de.jpg) [Poster 3](https://img.erpweb.eu.org/imgs/2025/07/db2b16ac2793902d.jpg) [Poster 4](https://img.erpweb.eu.org/imgs/2025/07/6fe4c28affbf135e.jpg) 
