@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Mingxuan Liu (刘铭轩)"
+title                    : "Junwei Huang (黄俊玮)"
 description              : --------------
-repository               : "Arktis2022/Arktis2022.github.io"
-google_scholar_stats_use_cdn : true
+repository               : "huang-jw22/huang-jw.github.io"
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Mingxuan Liu"
+  name             : "Junwei Huang"
   avatar           : "images/profile.png"
   bio              : "Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ"
-  email            : "arktis@qq.com"
-  researchgate     : "https://www.researchgate.net/profile/Mingxuan-Liu-18"
+  googlescholar    : #"https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ"
+  email            : "huang-jw22@mails.tsinghua.edu.cn"
+  researchgate     : #"https://www.researchgate.net/profile/Mingxuan-Liu-18"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Arktis2022"
+  github           : "huang-jw22"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : Junwei Huang
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
