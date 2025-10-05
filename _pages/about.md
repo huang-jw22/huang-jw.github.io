@@ -29,7 +29,9 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📻 News
-**2025.09.27:** Attended MICCAI 2025 in Daejeon, South Korea; won 2nd place in the MICCAI VLM3D Challenge and 1st place in the autoPET IV Challenge; delivered an oral presentation at the PIPPI Workshop. [Photo](https://img.erpweb.eu.org/imgs/2025/09/0b9b86976a2bfcf4.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/a3a62ea155b953e2.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/319c3fb36a464314.jpg)
+**2025.10.05:** 🎉🎉 Two papers accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/).
+
+**2025.09.27:** 🎉🎉 Attended MICCAI 2025 in Daejeon, South Korea; won 2nd place in the MICCAI VLM3D Challenge and 1st place in the autoPET IV Challenge; delivered an oral presentation at the PIPPI Workshop. [Photo](https://img.erpweb.eu.org/imgs/2025/09/0b9b86976a2bfcf4.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/a3a62ea155b953e2.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/319c3fb36a464314.jpg)
 
 **2025.09.07:** Attended the 2025 Beijing Radiology Quality Control Conference. [Photo](https://drive.google.com/file/d/1MPMjsz7aazGh71I0YoDSeVEZR-6gQBRy/view?usp=sharing)
 
@@ -151,6 +153,18 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <h2 id="CONFERENCE PAPERS" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">CONFERENCE PAPERS</h2>
 
 <ol reversed>
+  <li id="MA-Pub1"> 
+    <span style="color:#000000; font-weight:bold;">WARPNet: Scale-wise Autoregressive Cross-modal Synthesis for Accurate and Detail-preserving MRI-to-PET Generation</span> <br>
+    Guanyu Zhou#, Yifei Chen#, Gaoxiang Ying, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Xuguang Bai, Jialan Zheng, Bixiao Cui, Qiyuan Tian*, Jie Lu*<br> 
+    <i>IEEE International Conference on Bioinformatics and Biomedicine <strong>(BIBM).</strong></i> 2025. (Under Review)
+  </li>
+
+  <li id="MA-Pub1"> 
+    <span style="color:#000000; font-weight:bold;">DR-TTA: Dynamic and Robust Test-Time Adaptation Under Low-Quality MRI Conditions for Brain Tumor Segmentation</span> <br>
+    Yuanhan Wang#, Yifei Chen#, Shuo Jiang, Wenjing Yu, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Shenghao Zhu, Feiwei Qin, Changmiao Wang*<br> 
+    <i>IEEE International Conference on Bioinformatics and Biomedicine <strong>(BIBM).</strong></i> 2025. (Under Review)
+  </li>
+  
   <li id="MA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">autoPET IV challenge: Incorporating organ supervision and human guidance for lesion segmentation in PET/CT</span> <br>
     <a href="https://arxiv.org/pdf/2509.02402">[Paper]</a> <a href="https://github.com/huang-jw22/autoPET-4-submission/tree/master">[Code]</a><br> 
@@ -434,18 +448,6 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     <span style="color:#000000; font-weight:bold;">Automated Reconstruction and Segmentation of Isotropic-Resolution Fetal Body MRI Data for Quantitative Hydronephrosis Analysis</span> <br>
     Junwei Huang, Haoxiang Li, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Yijin Li, Yi Liao, Fenglin Jia, Junchen Zhu, Haibo Qu, Qiyuan Tian*<br> 
     <i>The ISMRM Workshop on Unlocking the Potential of Prenatal MRI</i>. 2025. (Under Review)
-  </li>
-
-  <li id="MA-Pub1"> 
-    <span style="color:#000000; font-weight:bold;">WARPNet: Scale-wise Autoregressive Cross-modal Synthesis for Accurate and Detail-preserving MRI-to-PET Generation</span> <br>
-    Guanyu Zhou#, Yifei Chen#, Gaoxiang Ying, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Xuguang Bai, Jialan Zheng, Bixiao Cui, Qiyuan Tian*, Jie Lu*<br> 
-    <i>IEEE International Conference on Bioinformatics and Biomedicine <strong>(BIBM).</strong></i> 2025. (Under Review)
-  </li>
-
-  <li id="MA-Pub1"> 
-    <span style="color:#000000; font-weight:bold;">DR-TTA: Dynamic and Robust Test-Time Adaptation Under Low-Quality MRI Conditions for Brain Tumor Segmentation</span> <br>
-    Yuanhan Wang#, Yifei Chen#, Shuo Jiang, Wenjing Yu, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Shenghao Zhu, Feiwei Qin, Changmiao Wang*<br> 
-    <i>IEEE International Conference on Bioinformatics and Biomedicine <strong>(BIBM).</strong></i> 2025. (Under Review)
   </li>
   
   <li id="MA-Pub0"> 
