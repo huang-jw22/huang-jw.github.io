@@ -33,7 +33,6 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 <p align="center">
   <img src="../images/autopet_award.jpg" alt="autoPET Award" width="48%">
-  <img src="../images/autopet_present.jpg" alt="autoPET Present" width="48%">
 </p>
 
 **2025.07.22:** 🎉🎉 Our work about [Chest CT Foundation Model](https://openreview.net/forum?id=ns6nq592HX#discussion) won [the 1st prize](https://img.erpweb.eu.org/imgs/2025/07/126d96158b08e1d8.jpg) at the 10th National Biomedical Engineering Innovation Design Competition for College Students (Top 5%).
