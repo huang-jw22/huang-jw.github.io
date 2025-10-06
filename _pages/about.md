@@ -29,13 +29,13 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📻 News
-**2025.09.27:** 🏆 Our team won the **1st Place** in the [MICCAI 2025 autoPET IV Challenge](https://autopet-iv.grand-challenge.org/autopet-iv/) (Task I)!🎉 Thrilled to receive this award and present our method on the workshop!
+**2025.09.27:** 🏆 Our team won the **1st Place** in the [MICCAI 2025 autoPET IV Challenge](https://autopet-iv.grand-challenge.org/autopet-iv/) (Task I)!🎉🎉 Thrilled to receive this award and present our method on the workshop!
 
 <p align="center">
   <img src="../images/autopet_award.jpg" alt="autoPET Award" width="48%">
 </p>
 
-**2025.07.22:** 🎉🎉 Our work about [Chest CT Foundation Model](https://openreview.net/forum?id=ns6nq592HX#discussion) won [the 1st prize](https://img.erpweb.eu.org/imgs/2025/07/126d96158b08e1d8.jpg) at the 10th National Biomedical Engineering Innovation Design Competition for College Students (Top 5%).
+**2025.07.22:** 🎉🎉 Our team won [the 1st prize](https://img.erpweb.eu.org/imgs/2025/07/126d96158b08e1d8.jpg) at the 10th National Biomedical Engineering Innovation Design Competition for College Students (Top 5%).
 
 **2025.07.20:** Attended the [Medical Imaging Computing Seminar (MICS) 2025](http://mics2025.com/) in Cixi, Zhejiang. [Photo](https://drive.google.com/file/d/1MvW5ANSwRB1bYXC676vW0CCNSEsbHuGD/view?usp=sharing)
 
